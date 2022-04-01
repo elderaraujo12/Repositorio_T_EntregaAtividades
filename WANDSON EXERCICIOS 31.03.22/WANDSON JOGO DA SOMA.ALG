@@ -23,7 +23,7 @@ Inicio
 
     fimenquanto
 
-    escrevaL("VOCE PERDEU  tente mais uma vez ...kkkkkkkkkkkkkk")
+    escrevaL("VOCE PERDEU!")
     escreva("Quantidade de acertos: ", acertos)
 
 
